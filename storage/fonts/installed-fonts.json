@@ -1,0 +1,20 @@
+{
+    "roboto": {
+        "normal": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_03_04\\storage\\fonts\/roboto_normal_7bc701b343c10631f60048716b96e4f7",
+        "500": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_03_04\\storage\\fonts\/roboto_500_5774d6fb05eba3d096525f821dbe4137",
+        "bold": "roboto_bold_8db5cb5d0586c1e891426d13097b1d04"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_9166bcb40dea5ba374b655439357cc5e"
+    },
+    "font awesome 5 free": {
+        "normal": "font_awesome_5_free_normal_ed4e4da87937dc9d793611fdb1abbce8",
+        "900": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_11_19\\storage\\fonts\/font_awesome_5_free_900_31ca5fb3f9009ed2d5b8cf264a9d6ed4"
+    },
+    "open sans": {
+        "normal": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_11_19\\storage\\fonts\/open_sans_normal_f9f1b653d87c168097eaa958ffde3cdf",
+        "500": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_11_19\\storage\\fonts\/open_sans_500_156d0d04fc7a69e4e8a9aa6623bea99e",
+        "600": "G:\\xampp\\htdocs\\Laravell\\gepeszmics_2023_11_19\\storage\\fonts\/open_sans_600_9542d9fe5ed8edbce0c8641c6025458b",
+        "bold": "open_sans_bold_9f0e3c1c8c0fab5db8d6ce31e4104d18"
+    }
+}
